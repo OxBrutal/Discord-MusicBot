@@ -10,8 +10,8 @@ module.exports = {
 	inviteScopes: ["bot", "applications.commands"], // Invite link scopes
 	serverDeafen: true, //- If you want bot to stay deafened
 	defaultVolume: 100, //- Sets the default volume of the bot, You can change this number anywhere from 1 to 100
-	supportServer: "https://discord.gg/sbySMS7m3v", //- Support Server Link
-	Issues: "https://github.com/SudhanPlayz/Discord-MusicBot/issues", //- Bug Report Link
+	supportServer: "https://discord.com/invite/3n5masN6Fe", //- Support Server Link
+	Issues: "", //- Bug Report Link
 	permissions: 277083450689, //- Bot Inviting Permissions
 	disconnectTime: 30000, //- How long should the bot wait before disconnecting from the voice channel (in miliseconds). Set to 1 for instant disconnect.
 	twentyFourSeven: false, //- When set to true, the bot will never disconnect from the voice channel
@@ -19,7 +19,7 @@ module.exports = {
 	autoPause: true, //- When set to true, music will automatically be paused if everyone leaves the voice channel
 	autoLeave: false, //- When set to true, the bot will automatically leave when no one is in the voice channel (can be combined with 24/7 to always be in voice channel until everyone leaves; if 24/7 is on disconnectTime will add a disconnect delay after everyone leaves.)
 	debug: false, //- Debug mode
-	cookieSecret: "CodingWithSudhan is epic", //- Cookie Secret
+	cookieSecret: "Koi", //- Cookie Secret
 	website: "http://localhost:4200", //- without the / at the end
 	// You need a lavalink server for this bot to work!!!!
 	// Lavalink server; public lavalink -> https://lavalink-list.darrennathanael.com/; create one yourself -> https://darrennathanael.com/post/how-to-lavalink
